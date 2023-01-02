@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-- 👋 ki Hi, I’m @Vivek
+- 👋 Hi, I’m @Vivek
 - 👀 I’m interested in Business Analytics 
 - 🌱 I’m currently learning Python.
 
