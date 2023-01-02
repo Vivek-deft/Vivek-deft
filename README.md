@@ -9,6 +9,8 @@
 - 👋 Hi, I’m @Vivek
 - 👀 I’m interested in Business Analytics 
 - 🌱 I’m currently learning Python.
+- ⚡ I love math, programming & data science
+- ☀️ I’m addicted to learning and growing every day
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
